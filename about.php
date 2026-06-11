@@ -7,9 +7,9 @@
 </head>
 <body>
     <nav>
-        <a href="index.html" class="active" >Home</a>
-         <a href="about.html" class="active" >About</a>
-          <a href="contact.html" class="active" >contact</a>
+        <a href="index.php" class="active" >Home</a>
+         <a href="about.php" class="active" >About</a>
+          <a href="contact.php" class="active" >contact</a>
 
     </nav>
     <div class="container">

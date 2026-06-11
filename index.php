@@ -12,10 +12,10 @@
             Tentang Saya</h1>
          <table border="1" align="center" cellspacing="5px" cellpadding="10px">
             <tr>
-                <td><a href="index.html">home</a></td>
-                <td><a href="about.html">profile</a></td>
-                <td><a href="contact.html">contact</a></td>
-                <td><a href="mahasiswa.html">Mahasiswa</a></td>
+                <td><a href="index.php">home</a></td>
+                <td><a href="about.php">profile</a></td>
+                <td><a href="contact.php">contact</a></td>
+                <td><a href="mahasiswa.php">Mahasiswa</a></td>
             </tr>   
 
          </table>

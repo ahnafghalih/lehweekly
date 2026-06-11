@@ -11,9 +11,9 @@
 <body>
     <h2>Tambah Data Mahasiswa</h2>
 
-    <form action="mahasiswa.html" method="post"></form>
+    <form action="mahasiswa.php" method="post"></form>
 
-    <form action="mahasiswa.html" method="post">
+    <form action="mahasiswa.php" method="post">
 
         <table cellpadding="5px">
             <tr>

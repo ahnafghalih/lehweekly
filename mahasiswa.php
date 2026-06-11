@@ -13,17 +13,17 @@
         Selamat Datang</h1>
     <table border="1" align="center" cellspacing="5px" cellpadding="10px">
         <tr>
-            <td><a href="index.html">Home</a></td>
-            <td><a href="about.html">Tentang</a></td>
-            <td><a href="contact.html">contact</a></td>
-            <td><a href="mahasiswa.html">Data mahasiswa</a></td>
+            <td><a href="index.php">Home</a></td>
+            <td><a href="about.php">Tentang</a></td>
+            <td><a href="contact.php">contact</a></td>
+            <td><a href="mahasiswa.php">Data mahasiswa</a></td>
         </tr>
 
     </table>
     <h2>
         Data Mahasiswa
     </h2>
-    <a href="TambahData.html">Tambah Data</a>
+    <a href="TambahData.php">Tambah Data</a>
 
     <table border="1" cellspacing="5px" cellspadding="10px">
         <tr>
