@@ -11,9 +11,9 @@
 <body>
     <h2>Tambah Data Mahasiswa</h2>
 
-    <form action="mahasiswa.php" method="post"></form>
+    
 
-    <form action="mahasiswa.php" method="post">
+    <form action="proses_simpan.php" method="post" enctype="multipart/form-data">
 
         <table cellpadding="5px">
             <tr>

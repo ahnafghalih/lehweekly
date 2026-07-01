@@ -20,7 +20,7 @@
 
          </table>
          <center>
-            <img src="foto bola.jpg" width="200px" />
+            <img src="aset/image/foto.jpg" width="200px"
          </center>
          
 

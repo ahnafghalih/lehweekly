@@ -56,30 +56,6 @@
             <td align="center">85</td>
             <td align="center">50</td>
         </tr>
-        <table border="1" cellspacing="5px" cellspandding="10px">
-            <tr>
-                <td>1,1</td>
-                <td>1,2</td>
-                <td>1,3</td>
-                <td>1,4</td>
-            </tr>
-            <tr>
-                <td>2,1</td>
-                <td rowspan="2" colspan="2" align="center"> ? </td>
-                <td>2,4</td>
-                <!-- <td>2,4</td> -->
-            </tr>
-            <tr>
-                <td>3,1</td>
-                <td>3,4</td>
-            </tr>
-            <tr>
-                <td>4,1</td>
-                <td>4,2</td>
-                <td>4,3</td>
-                <td>4,4</td>
-            </tr>
-        </table>
 
         </h2>
     </table>
