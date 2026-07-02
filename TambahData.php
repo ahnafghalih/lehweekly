@@ -28,9 +28,9 @@
                 <td><input type="number" id="nim" name="nim" /></td>
             </tr>
             <tr>
-                <td><label for="foto">Foto</label></td>
+                <td><label for="Jurusan">Jurusan</label></td>
                 <td>:</td>
-                <td><input type="file" id="Foto" name="foto" /></td>
+                <td><input type="text" id="Foto" name="Jurusn" /></td>
             </tr>
             <tr>
                 <td><label for="uts">UTS</label></td>
@@ -64,7 +64,7 @@
             <tr>
                 <td><label>No HP</label></td>
                 <td>:</td>
-                <td><input type="tel" name="hp"></td>
+                <td><input type="number" name="hp"></td>
             </tr>
 
             <tr>
