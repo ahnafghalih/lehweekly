@@ -2,8 +2,6 @@
     
     require 'fungsi.php';
 
-    $koneksi = mysqli_connect("localhost", "root", "", "lehweekly");
-
     $query = "SELECT * FROM mahasiswa"; /// perintah
     $mahasiswas = tampildata($query); //// wadah berisi data
 
