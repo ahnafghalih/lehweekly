@@ -1,3 +1,6 @@
+@php
+    $title = $title ?? '';
+@endphp
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
     <div class="container-fluid">
     <a class="navbar-brand" href="/">WEB TI</a>
